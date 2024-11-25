@@ -22,6 +22,7 @@ Librerias:
 - Seaborn
 - Plotly
 - Sklearn
+Kernel: Python 3.13.0
 
 
 Database: https://www.kaggle.com/datasets/ravindrasinghrana/carbon-co2-emissions
