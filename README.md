@@ -15,7 +15,7 @@ Metric Tons Per Capita: Las emisiones de CO₂ per cápita en cada país, expres
 
 Estas descripciones de columnas ayudan a comprender mejor el propósito de cada campo, lo que facilita la interpretación y el uso eficiente de este conjunto de datos en análisis posteriores.
 
-Data base: https://www.kaggle.com/datasets/ravindrasinghrana/carbon-co2-emissions
+Database: https://www.kaggle.com/datasets/ravindrasinghrana/carbon-co2-emissions
 
 
 
