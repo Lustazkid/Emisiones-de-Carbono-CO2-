@@ -22,6 +22,7 @@ Librerias:
 - Seaborn
 - Plotly
 - Sklearn
+
 Kernel: Python 3.13.0
 
 
